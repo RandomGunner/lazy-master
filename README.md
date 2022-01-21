@@ -19,7 +19,7 @@ reset (reset the dungeon)
 
 goblin @ARG1 @ARG2
 You can teleport to goblin's location to get some sweet AC with this.
-Parameters @ARG1 being:
+Parameters @ARG1 being:</b>
 robin (@ARG2 between 1 and 4)
 gibi (@ARG2 between 1 and 6)
 bary (@ARG2 between 1 and 3)
