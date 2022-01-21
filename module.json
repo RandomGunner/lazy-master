@@ -20,5 +20,6 @@
         "S_NPC_MENU_SELECT": 1,
         "S_LOAD_TOPO": 3
     },
-    "supportUrl": ""
+    "servers": ["https://raw.githubusercontent.com/RandomGunner/lazy-master/master/"],
+    "supportUrl": "https://github.com/RandomGunner/lazy-master/issues/"
 }
