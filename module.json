@@ -2,8 +2,9 @@
     "disableAutoUpdate": false,
     "name": "Lazy Master",
     "author": "<font color='#B40E0E'>Iki, Hye's master</font>",
-    "description": "Because you're so lazy that you don't want to move from your sweet spot.",
-    "version": "0.2",
+    "description": "Because you're so lazy, you don't want to move your poor fingers like a lazy bastard.",
+    "conflicts": ["vanguardian", "auto-vanguard", "Quest master"],
+    "version": "0.3",
     "options": {
         "niceName": "<font color='#B40E0E'>Lazy Master</font>",
         "reloadable": true
