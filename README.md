@@ -30,4 +30,4 @@ Parameters @ARG1 being:</br>
 
 <b>config.json</b> contains some usefull options:</br>
 <b>collection_effect</b> (the collection of effects you want to use in a specific dungeon - id's are from 1 to 37 -)</br>
-<b>card_preset</b> (the card preset you want to use in a specific dungeon - id's are from 0 to 6 -)
+<b>card_preset</b> (the card preset you want to use in a specific dungeon - id's are from 0 to 9 -)
