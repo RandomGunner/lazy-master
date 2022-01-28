@@ -1,10 +1,12 @@
 # LazyMaster
-<b>Because you're so lazy that you don't want to do a lot of things.</b>
+<b>Because you're so lazy that you don't want to do a lot of things.</b></br>
+- Auto retaliate is always enable.
 </br></br>
 <b>Commands:</b></br>
+<b>meterkill</b> (kill the tera damage meter API process)</br>
 <b>bank</b> (open the bank)</br>
 <b>broker</b> (open the broker)</br>
-<b>consumable</b> (Auto use of wine / nostrum / noctenium / bravery only when in combat)</br>
+<b>consumable</b> (auto use of wine / nostrum / noctenium / bravery / crystalbind only when in combat)</br>
 <b>wardrobe</b> (open the wardrobe)</br></br>
 
 <b>lazy @ARG</b></br>
