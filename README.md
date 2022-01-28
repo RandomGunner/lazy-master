@@ -4,12 +4,14 @@
 <b>Commands:</b></br>
 <b>bank</b> (open the bank)</br>
 <b>broker</b> (open the broker)</br>
+<b>consumable</b> (Auto use of wine / nostrum / noctenium / bravery only when in combat)</br>
 <b>wardrobe</b> (open the wardrobe)</br></br>
 
 <b>lazy @ARG</b></br>
 You can have some usefull options with:</br>
 Parameters <b>@ARG</b> being:</br>
 <b>tp</b> (enable / disable some dungeon teleportation to save time by not walking)</br>
+<b>brooch</b> (usefull when you want to auto-brooch after using a specific skill - list is on config.json -)</br>
 <b>autohp</b> (if set to true, it trigger a potion if your hp goes below the value in <b>hp @ARG1</b>)</br>
 <b>automp</b> (if set to true, it trigger a potion if your mp goes below the value in <b>mp @ARG1</b>)</br>
 <b>hp @ARG1</b> (the percentage - <b>@ARG1</b> between 0 and 100 - from when you need to trigger a potion)</br>
@@ -29,5 +31,5 @@ Parameters @ARG1 being:</br>
 <b>bary</b> (<b>@ARG2</b> between 1 and 3)</br></br>
 
 <b>config.json</b> contains some usefull options:</br>
-<b>collection_effect</b> (the collection of effects you want to use in a specific dungeon - id's are from 1 to 37 -)</br>
-<b>card_preset</b> (the card preset you want to use in a specific dungeon - id's are from 0 to 9 -)
+<b>collection_effect</b> (the collection of effects you want to use on specific monster type, as a healer or in PvP - id's are from 1 to 37 -)</br>
+<b>card_preset</b> (the card preset you want to use on specific monster type, as a healer or in PvP - id's are from 1 to 10 -)
