@@ -3,8 +3,20 @@
     "name": "Lazy Master",
     "author": "<font color='#B40E0E'>Iki, Hye's master</font>",
     "description": "Because you're so lazy, you don't want to move your poor fingers like a lazy bastard.",
-    "conflicts": ["vanguardian", "auto-vanguard", "Quest master", "true-everful-nostrum", "Lazy Steroids", "Auto Shit", "Card Changer Rework"],
-    "version": "0.4",
+    "conflicts": [
+        "vanguardian",
+        "auto-vanguard",
+        "Quest master",
+        "true-everful-nostrum",
+        "Lazy Steroids",
+        "Auto Shit",
+        "Card Changer Rework",
+        "Essentials",
+        "autowine",
+        "Auto-Wine",
+        "Auto-Retaliate"
+    ],
+    "version": "0.5",
     "options": {
         "niceName": "<font color='#B40E0E'>Lazy Master</font>",
         "reloadable": true
