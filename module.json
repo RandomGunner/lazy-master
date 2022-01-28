@@ -3,23 +3,14 @@
     "name": "Lazy Master",
     "author": "<font color='#B40E0E'>Iki, Hye's master</font>",
     "description": "Because you're so lazy, you don't want to move your poor fingers like a lazy bastard.",
-    "conflicts": ["vanguardian", "auto-vanguard", "Quest master"],
-    "version": "0.3",
+    "conflicts": ["vanguardian", "auto-vanguard", "Quest master", "true-everful-nostrum", "Lazy Steroids", "Auto Shit", "Card Changer Rework"],
+    "version": "0.4",
     "options": {
         "niceName": "<font color='#B40E0E'>Lazy Master</font>",
         "reloadable": true
     },
     "dependencies": {
         "library": "https://raw.githubusercontent.com/Kaseaa/library/master/module.json"
-    },
-    "servers": [ "" ],
-    "packets": {
-        "C_PLAYER_LOCATION": 5,
-        "C_REQUEST_CONTRACT": 50,
-        "S_ENTER_DUNGEON" : 1,
-        "S_INSTANT_MOVE": 3,
-        "S_NPC_MENU_SELECT": 1,
-        "S_LOAD_TOPO": 3
     },
     "servers": ["https://raw.githubusercontent.com/RandomGunner/lazy-master/master/"],
     "supportUrl": "https://github.com/RandomGunner/lazy-master/issues/"
