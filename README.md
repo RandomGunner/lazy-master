@@ -6,8 +6,18 @@
 - <b>meterkill</b> (enable / disable the kill process of the tera damage meter API)</br>
 - <b>bank</b> (open the bank)</br>
 - <b>broker</b> (open the broker)</br>
-- <b>consumable</b> (enable / disable auto use of wine / nostrum / noctenium / bravery / crystalbind only when in combat)</br>
 - <b>wardrobe</b> (open the wardrobe)</br></br>
+
+
+<b>consumable @ARG</b></br>
+Enable / disable auto use of wine / nostrum / noctenium / bravery / crystalbind only when in combat.</br>
+By default, not using any parameters just enable / disable the auto consumable.</br>
+Parameters <b>@ARG</b> being:</br>
+- <b>ccb</b> (enable / disable use of auto crystalbind)</br>
+- <b>nostrum</b> (enable / disable use of auto nostrum)</br>
+- <b>bravery</b> (enable / disable use of auto bravery)</br>
+- <b>noctenium</b> (enable / disable use of auto noctenium)</br>
+- <b>wine</b> (enable / disable use of auto wine)</br></br>
 
 <b>lazy @ARG</b></br>
 You can have some usefull options with:</br>
