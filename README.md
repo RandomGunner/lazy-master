@@ -45,4 +45,5 @@ Parameters @ARG1 being:</br>
 
 <b>config.json</b> contains some usefull options:</br>
 - <b>collection_effect</b> (the collection of effects you want to use on specific monster type, as a healer or in PvP - id's are from 1 to 37 -)</br>
-- <b>card_preset</b> (the card preset you want to use on specific monster type, as a healer or in PvP - id's are from 1 to 10 -)
+- <b>card_preset</b> (the card preset you want to use on specific monster type, as a healer or in PvP - id's are from 1 to 10 -)</br>
+- <b>ep_preset</b> (the EP preset page you will use for either PvP or PvE)
