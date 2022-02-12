@@ -115,12 +115,5 @@
 	"auto_nostrum": true,
 	"auto_bravery": true,
 	"auto_noctenium": true,
-	"auto_ccb": true,
-	"servant": {
-		"11907378_29": {
-			"id": 1026,
-			"uniqueId": "BI/-780046",
-			"unk": 0
-		}
-	}
+	"auto_ccb": true
 }
