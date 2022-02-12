@@ -1,3 +1,126 @@
 {
-	"lazyTP": false
+	"lazyTP": true,
+	"tts_activate": false,
+	"auto_brooch": false,
+	"ep_preset": {
+		"PvE": 1,
+		"PvP": 2
+	},
+	"brooch_skillId": {
+		"Warrior": 20,
+		"Lancer": 12,
+		"Slayer": 20,
+		"Berserker": 33,
+		"Sorcerer": 39,
+		"Archer": 35,
+		"Priest": 43,
+		"Mystic": 34,
+		"Reaper": 16,
+		"Gunner": 41,
+		"Brawler": 18,
+		"Ninja": 23,
+		"Valkyrie": 25
+	},
+	"auto_hp_pot": false,
+	"use_pot_hp_percent": 30,
+	"auto_mp_pot": false,
+	"use_pot_mp_percent": 5,
+	"auto_consumable": true,
+	"zonepos": 3042,
+	"posChanged": false,
+	"collection_effect": {
+		"Default": [
+			21,
+			22
+		],
+		"Healer": [
+			9,
+			11
+		],
+		"Giant": [
+			22,
+			35
+		],
+		"Ancestor": [
+			22,
+			33
+		],
+		"MagicalDevice": [
+			22,
+			31
+		],
+		"Beast": [
+			22,
+			30
+		],
+		"MagicalCreature": [
+			22,
+			29
+		],
+		"Faerie": [
+			22,
+			27
+		],
+		"Dragon": [
+			22,
+			25
+		],
+		"PvP": [
+			21,
+			22
+		],
+		"God": [
+			22,
+			26
+		],
+		"Azart": [
+			22,
+			37
+		],
+		"Argon": [
+			22,
+			24
+		],
+		"Demon": [
+			22,
+			32
+		],
+		"Darkan": [
+			9,
+			22
+		],
+		"BahaarP1": [
+			22
+		]
+	},
+	"card_preset": {
+		"Default": 1,
+		"Healer": 1,
+		"Giant": 1,
+		"Faerie": 1,
+		"God": 1,
+		"MagicalDevice": 1,
+		"Argon": 1,
+		"Beast": 1,
+		"Ancestor": 2,
+		"Azart": 3,
+		"MagicalCreature": 4,
+		"Dragon": 5,
+		"Demon": 6,
+		"PvP": 7
+	},
+	"patch_version": 1,
+	"kill_tera_meter": true,
+	"auto_wine": true,
+	"auto_nostrum": true,
+	"auto_bravery": true,
+	"auto_noctenium": true,
+	"auto_ccb": true,
+	"servant": {
+		"11907378_29": {
+			"id": 1026,
+			"uniqueId": "BI/-780046",
+			"unk": 0
+		}
+	}
 }
