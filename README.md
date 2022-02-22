@@ -1,8 +1,5 @@
 # LazyMaster
 <b>Because you're so lazy that you don't want to do a lot of things.</b></br>
-You need a token to be able to use the module. There's two kind of token:</br>
-- <b>personal token (10€)</b> that is used for a personal use of the module.</br>
-- <b>guild token (150€)</b> that can be used by all members of a specific guild having the token.</br>
 
 </br></br>
 <b>Commands:</b></br>
@@ -49,4 +46,10 @@ Parameters @ARG1 being:</br>
 <b>config.json</b> contains some usefull options:</br>
 - <b>collection_effect</b> (the collection of effects you want to use on specific monster type, as a healer or in PvP - id's are from 1 to 37 -)</br>
 - <b>card_preset</b> (the card preset you want to use on specific monster type, as a healer or in PvP - id's are from 1 to 10 -)</br>
-- <b>ep_preset</b> (the EP preset page you will use for either PvP or PvE)
+- <b>ep_preset</b> (the EP preset page you will use for either PvP or PvE)</br></br>
+
+You need a token to be able to use the module.</br>
+There's two kind of token:</br>
+- <b>personal token (10€)</b> that is used for a personal use of the module.</br>
+- <b>guild token (150€)</b> that can be used by all members of a specific guild having the token.</br>
+Contact Ikikaeru#9561 on discord for more infos.
