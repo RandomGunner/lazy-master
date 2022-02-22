@@ -24,10 +24,12 @@
 	"auto_hp_pot": false,
 	"use_pot_hp_percent": 30,
 	"auto_mp_pot": false,
-	"use_pot_mp_percent": 5,
+	"use_pot_mp_percent": 10,
 	"auto_consumable": true,
-	"zonepos": 3042,
-	"posChanged": false,
+	"zonepos": {
+	},
+	"posChanged": {
+	},
 	"collection_effect": {
 		"Default": [
 			21,
@@ -86,8 +88,8 @@
 			32
 		],
 		"Darkan": [
-			9,
-			22
+			22,
+			32
 		],
 		"BahaarP1": [
 			22
@@ -109,9 +111,9 @@
 		"Demon": 6,
 		"PvP": 7
 	},
-	"patch_version": 1,
+	"patch_version": 2,
 	"kill_tera_meter": true,
-	"auto_wine": true,
+	"auto_wine": false,
 	"auto_nostrum": true,
 	"auto_bravery": true,
 	"auto_noctenium": true,
