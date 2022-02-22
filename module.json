@@ -16,7 +16,7 @@
         "Auto-Wine",
         "Auto-Retaliate"
     ],
-    "version": "0.6",
+    "version": "0.7",
     "options": {
         "niceName": "<font color='#B40E0E'>Lazy Master</font>",
         "reloadable": true
