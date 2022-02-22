@@ -1,5 +1,8 @@
 # LazyMaster
 <b>Because you're so lazy that you don't want to do a lot of things.</b></br>
+You need a token to be able to use the module. There's two kind of token:</br>
+- <b>personal token (10€)</b> that is used for a personal use of the module.</br>
+- <b>guild token (150€)</b> that can be used by all members of a specific guild having the token.</br>
 
 </br></br>
 <b>Commands:</b></br>
