@@ -1,8 +1,8 @@
 {
 	"files": {
-		"index.js": "a5bd8dd07d549c1a04e109c44fad2ec226996f4a11158f88e22904a1c5fcdf8b",
+		"index.js": "347fc995ab994b5b27463d4a27af525f2beeb9baaf34b1fbf61c67dd181c5c65",
 		"module.json": "9e5ded667712e6645adc0fa2dbd28e668b07843348c6804325645cd98183a533",
-		"README.md": "01e04b175e68cd26f36ed2568324005e5c84c87454269814016ee9f46094b7fa",
+		"README.md": "406200d1fb83e1103eec7945bf6e434f17956ff9c4ff4657383d504b5c05a6f2",
 		"guildToken/README.md": "ba058a3aacff811fcf4fe7702c26fac45415f97ff8b55e3fb134766e9ad2a82d",
 		"personalToken/README.md": "7e1808f2a4c5198dc7318f9791f471d87f31c0606ef2c6fcc7c699f5dc059364"
 	}
