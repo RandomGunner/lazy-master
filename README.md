@@ -23,8 +23,9 @@ Parameters <b>@ARG</b> being:</br>
 You can have some usefull options with:</br>
 Parameters <b>@ARG</b> being:</br>
 - <b>tp</b> (enable / disable some dungeon teleportation to save time by not walking)</br>
-- <b>tts</b> (enable / disable tts messages for some special skills on lancer, priest, gunner, berserker, valkyrie and warrior)</br>
+- <b>tts @ARG1</b> (enable / disable tts messages for some special skills on lancer, priest, gunner, berserker, valkyrie and warrior. @ARG1 takes dragon as parameter to enable / disable the call when the 1.5 / 2.0 is up)</br>
 - <b>brooch</b> (enable / disable auto-brooch after using a specific skill - list is in config.json -)</br>
+- <b>broochdelay @ARG1 @ARG2</b> (set the delay before the auto brooch activate itself. @ARG1 is the class name and @ARG2 is the delay in ms)</br>
 - <b>autohp</b> (if set to true, it trigger a potion if your hp goes below the value in <b>hp @ARG1</b>)</br>
 - <b>automp</b> (if set to true, it trigger a potion if your mp goes below the value in <b>mp @ARG1</b>)</br>
 - <b>hp @ARG1</b> (the percentage - <b>@ARG1</b> between 0 and 100 - from when you need to trigger a potion)</br>
