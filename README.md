@@ -23,6 +23,8 @@ Parameters <b>@ARG</b> being:</br>
 You can have some usefull options with:</br>
 Parameters <b>@ARG</b> being:</br>
 - <b>autovg</b> (enable / disable auto vanguard)</br>
+- <b>shopFix</b> (enable / disable a block to dragonscale shop opening up when in combat)</br>
+- <b>autoboss</b> (enable / disable auto last boss tp)</br>
 - <b>tp</b> (enable / disable some dungeon teleportation to save time by not walking)</br>
 - <b>tts @ARG1</b> (enable / disable tts messages for some special skills on lancer, priest, gunner, berserker, valkyrie and warrior. @ARG1 takes dragon as parameter to enable / disable the call when the 1.5 / 2.0 is up)</br>
 - <b>brooch</b> (enable / disable auto-brooch after using a specific skill - list is in config.json -)</br>
